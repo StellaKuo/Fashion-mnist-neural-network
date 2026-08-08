@@ -11,7 +11,7 @@
 - Matplotlib
 - TensorFlow
 - Keras
-- Scikit-learn
+
 
 ## 📈 Result
 
